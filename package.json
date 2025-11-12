@@ -1,5 +1,5 @@
 {
-  "name": "devsecops-sample",
+  "name": "DevOps CI-CD Project",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {

@@ -32,4 +32,4 @@ jobs:
       run: docker run -d -p 3000:3000 devsecops-sample
 
     - name: Print success message
-      run: echo "✅ CI/CD Pipeline executed successfully!"
+      run: echo "DevOps CI/CD Pipeline executed successfully!"
